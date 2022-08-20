@@ -1,3 +1,9 @@
+<style>
+  footer {
+    display: none;
+  }
+</style>
+
 {% assign now = site.time | date_to_string %}
 {% assign show = "30 Aug 2022" %}
 {% if show == now %}
