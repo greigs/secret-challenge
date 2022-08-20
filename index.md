@@ -13,5 +13,5 @@
   - **The codes are 473 and 471**
   - **More information here**
 {% else %}  
-  Return here on Your Special Day and refresh the page for further instructions.
+  **Return here on Your Special Day and refresh the page for further instructions.**
 {% endif %}
