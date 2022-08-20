@@ -4,7 +4,7 @@ Return here on Your Special Day and refresh the page for further instructions.
 
 
 {% assign now = site.time | date_to_string %}
-{% assign show = "21 Aug 2022" %}
+{% assign show = "20 Aug 2022" %}
 {% if show == now %}
   Test
 {% endif %}
