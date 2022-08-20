@@ -4,7 +4,7 @@ Return here on Your Special Day for further instructions.
 
 
 
-{% if page.title == "Title1" %}
+{% if {site.time | date_to_string} == "20 Aug 2022" %}
 Test
 {% endif %}
 
