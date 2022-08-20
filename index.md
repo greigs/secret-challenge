@@ -1,10 +1,10 @@
 ## Title1
 
-Return here on Your Special Day for further instructions.
+Return here on Your Special Day and refresh the page for further instructions.
 
 
 
-{% if {site.time | date_to_string} == "20 Aug 2022" %}
+{% if {site.time | date_to_string} == "21 Aug 2022" %}
 Test
 {% endif %}
 
