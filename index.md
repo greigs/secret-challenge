@@ -14,6 +14,7 @@
   - **Become familiar with the box contents and bring them with you**
   - **Send a message to The Professor when you are ready and he will introduce the challenge**
   - **A pokemon trainer attire for the challenge is suggested, but not essential**
+  - **The professor will always need proof before the next clue is given**
   - **GOOD LUCK!**
 {% else %}  
   **Return here on Your Special Day after approx 17:00 and refresh the page for further instructions (it may be delayed a few minutes, so keep checking).**
