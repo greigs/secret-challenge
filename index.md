@@ -16,5 +16,5 @@
   - **A pokemon trainer attire for the challenge is suggested, but not essential**
   - ** GOOD LUCK! **
 {% else %}  
-  **Return here on Your Special Day at 17:00 and refresh the page for further instructions.**
+  **Return here on Your Special Day after approx 17:00 and refresh the page for further instructions.**
 {% endif %}
