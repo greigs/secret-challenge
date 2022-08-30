@@ -14,7 +14,7 @@
   - **Become familiar with the box contents (test the equipment!) and bring them with you**
   - **A pokemon trainer attire for the challenge is suggested, but not essential**
   - **Send a message to The Professor when you are ready to leave and he will introduce the challenge**
-  - **The professor will always need proof before the next clue is given**
+  - **The Professor expects a photo of a selfie taken with the pokescanner before embarking!**
   - **Throwing the pokeball at wild pokemon IS encouraged**
   - **GOOD LUCK!**
 {% else %}  
