@@ -17,5 +17,5 @@
   - **The professor will always need proof before the next clue is given**
   - **GOOD LUCK!**
 {% else %}  
-  **Return here on Your Special Day at approx 17:10 and refresh the page for further instructions (it may be delayed a few minutes, so keep checking).**
+  **Return here on Your Special Day at approx 17:15 and refresh the page for further instructions (it may be delayed a few minutes, so keep checking).**
 {% endif %}
